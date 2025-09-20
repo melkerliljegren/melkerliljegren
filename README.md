@@ -1,6 +1,6 @@
 # Hi, I'm Melker Liljegren
 
-Quant-minded engineering student (LTH, Risk, Safety & Crisis Management) focusing on **intraday trading strategies, backtesting and ML**.
+Engineering student (LTH, Risk, Safety & Crisis Management) focusing on **intraday trading strategies, backtesting and ML**.
 
 - 🔭 Projects: Intraday strategies, backtesting frameworks, and ML applications in finance.
 - 🧠 Experience: Random Forest trading signals (LINC project), collaborative filtering movie recommender (TensorFlow/Keras).
